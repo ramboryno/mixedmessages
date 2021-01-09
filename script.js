@@ -1,1 +1,1 @@
-
+HTMLFormControlsCollection.log('hello');
